@@ -6,3 +6,5 @@ This contains a set of python examples to learn programming with python
 - [Dictionaries](dictionaries/)
 - [Lists](lists/)
 - [Looping](looping/)
+- [Functions](functions/)
+- [Classes](classes/)
