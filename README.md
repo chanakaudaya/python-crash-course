@@ -8,3 +8,5 @@ This contains a set of python examples to learn programming with python
 - [Looping](looping/)
 - [Functions](functions/)
 - [Classes](classes/)
+- [Files](files/)
+- [Exceptions](exceptions/)
