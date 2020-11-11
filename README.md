@@ -12,3 +12,5 @@ This contains a set of python examples to learn programming with python
 - [Exceptions](exceptions/)
 - [JSON](json/)
 - [Unit Tests](unit-tests/)
+- [Projects](projects/)
+    - [Alien Invasion](projects/alien-invasion/)
